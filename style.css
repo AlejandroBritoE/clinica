@@ -14,7 +14,7 @@ h5 {
 .cover {
   height: 400px;
   background-image: url('./img/deethcopia.jpg');
-  color: white;
+  <!--color: white; -->
   background-size: cover;
   background-position: center;
 }
