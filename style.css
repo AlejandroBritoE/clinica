@@ -13,7 +13,7 @@ h5 {
 
 .cover {
   height: 400px;
-  background-image: url(./img/deeth.jpg);
+  background-image: url('./img/deeth.jpg');
   /*color: white; */
   background-size: cover;
   background-position: center;
