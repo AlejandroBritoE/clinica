@@ -13,7 +13,7 @@ h5 {
 
 .cover {
   height: 400px;
-  background-image: url(https://cdn.glitch.me/1ddc8d85-7129-4b2e-aaaf-3e4f8a638281%2Fcaroline-lm-ux18C551ghI-unsplash.jpg?v=1634930213635);
+  background-image: url('./img/background.jpg');
   color: white;
   background-size: cover;
   background-position: center;
