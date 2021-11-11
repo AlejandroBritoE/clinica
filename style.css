@@ -1,0 +1,46 @@
+body {
+  font-family: "Merriweather", serif;
+  margin: 2ex;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Teko", sans-serif;
+}
+
+.cover {
+  height: 400px;
+  background-image: url(https://cdn.glitch.me/27aba1a3-8a48-4416-b41a-ad866dfe25f6%2Fdeeth%20-%20copia.png?v=1636482252924);
+  color: white;
+  background-size: cover;
+  background-position: center;
+}
+
+.card {
+  border: 0 !important;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.card-title {
+  min-height: 2.5rem;
+}
+
+.card-text {
+  min-height: 10rem;
+}
+
+.responsive-iframe {
+  position: relative;
+  padding-top: 56.25%;
+}
+
+.responsive-iframe iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
